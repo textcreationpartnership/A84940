@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Excellency Sir Thomas Fairfaxes protestation, in the name of himselfe, and the rest of the army. The declaration of the commaltee [sic] of souldiers, their answer to the Scots declaration, and the resolutions of the army concerning the City of London.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84940</idno>
+            <idno type="STC">Wing F225</idno>
+            <idno type="STC">Thomason E392_23</idno>
+            <idno type="STC">ESTC R201578</idno>
+            <idno type="EEBO-CITATION">99862078</idno>
+            <idno type="PROQUEST">99862078</idno>
+            <idno type="VID">160286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Excellency Sir Thomas Fairfaxes protestation, in the name of himselfe, and the rest of the army. The declaration of the commaltee [sic] of souldiers, their answer to the Scots declaration, and the resolutions of the army concerning the City of London.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Corbet, Roger.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 3 documents: a letter dated and signed St. Albones, Iune the 13. 1647. R. Corbet; Fairfax's Protestation; and "The desires of the army".</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160286:1" rendition="simple:additions"/>
+            <p>HIS EXCELLENCY <hi>SIR THOMAS FAIRFAXES</hi> Proteſtation, in the name of himſelfe, and the reſt of the Army.</p>
+            <p>THE DECLARATION Of the Commaltee of Souldiers, Their <hi>Anſwer</hi> to the Scots <hi>Declaration,</hi> And the Reſolutions of the army Concerning the City of LONDON.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>London Printed by B. A. 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160286:2"/>
+            <pb facs="tcp:160286:2"/>
+            <head>NEVVES FROM THE ARMIE</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>YOurs dated June</hi> 11, <hi>came ſafe to my hands for which I give you many thankes, and for what hath ſince my lhſt bin collected by me, is briefly thus, That we have left the King vt his houſe at Newmarket, where Col. Whalley commands the Guard ſtill.</hi>
+            </p>
+            <pb facs="tcp:160286:3"/>
+            <p>Wee are now come hither to St. Albones the Gen. Excellency, Leivtenant Gen. Ham<g ref="char:EOLhyphen"/>mond, Col. Hammond, Comiſſary Gen. Ier<g ref="char:EOLhyphen"/>ton, Col. Rainsborough, Col. Sir Hardreds Waller, Col. Rich, Col. Lilburne, Col. Pride, Col. Howſon, and the reſt, Alſo F. Mar. Gen. Skippon, Liv. Gen. Crumwell and the reſt of the Commiſſioners are come with us, wee have a very gallant army, &amp; do not decreaſe, beſids many that have left us would faine be admitted againe but come not.</p>
+            <p>Wee had ſome of the Scots Declarati<g ref="char:EOLhyphen"/>ons brought hither which have much in<g ref="char:EOLhyphen"/>coraged the ſouldiers, eſpecially that laſt paſſage, wherein they aſſined the Parlia<g ref="char:EOLhyphen"/>ment at the conference of both houſes, that if there were neede, (it being upon ſome ſpeeches againſt the army) that they would joyne aboue man.</p>
+            <p>But I find that the ſouldiers take things very well from the City, in that they will joyne with thoſe who would promote war againſt them. And it hath (as I here) been diſputed amongſt the ſouldiers very much, what courſe to take for the poore of the Ci<g ref="char:EOLhyphen"/>ty of London, in caſe the Armies lying neer
+<pb facs="tcp:160286:3"/>raiſe the priſes of proviſions, the reſult of which was that if they have but ſome mo<g ref="char:EOLhyphen"/>nies ſent them to pay the Armies quarters, they will retreate further from the City, &amp; it is the open way (ſo far as I perceive) that upon a motion from the City, the Parlia<g ref="char:EOLhyphen"/>ment will not deny it them.</p>
+            <p>we heare that it is much queſtioned in the City of London what the Army wil do up<g ref="char:EOLhyphen"/>on them in relation to their Eſtates whe<g ref="char:EOLhyphen"/>ther they ſhall be free from plunder, &amp; al<g ref="char:EOLhyphen"/>ſo whether they will admitt a free trade, if the Country to which the Souldiers haue reſolved, that the City of London going on in this loving way, and not oppoſing them, they will do them no prejudice.</p>
+            <p>The ſouldiers are reſolved that not one penyworth of goods or mony, ſhall be prejudiced by them, not only that in their ſhops or houſes, but what ſoever ſhall be carried in to the Country, or be ſent up from the Country, between them and thoſe they deale withall, not any jote thereof ſhal be prejudiced, and if any monies be ſent them to enable them to pay quarters they will remoue further off from London.</p>
+            <p>Wee heare of ſome Aldermen, and Common-Councell men comming to the Army from the City, they are much expected againe, they a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come to us, you ſhall here further from</p>
+            <closer>
+               <signed>Your humble ſervant R. CORBET</signed>
+               <dateline>
+                  <hi>St. Albones,</hi> 
+                  <date>Iune the 13. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="protestation">
+            <pb facs="tcp:160286:4"/>
+            <head>His Excellency Sir Thomas Fairfax his Prote<g ref="char:EOLhyphen"/>ſtation, in the name of himſelf, and the reſt of the Commanders in chiefe.</head>
+            <p n="1">1. WE have ſaid before, and profeſſe it now, we deſire no alteration of the Civill Government.</p>
+            <p n="2">2. We deſire not to interrupt the ſetling of Presbyterial Government.</p>
+            <p n="3">3. Nor do we ſeek to open a way to li<g ref="char:EOLhyphen"/>centious liberty, under pretence of obtaining eaſe for tender Conſciences.</p>
+            <closer>
+               <signed>T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>The Deſires of the Army.</head>
+            <p n="1">I. Their deſire is, to preſerve and not to ſpoyle, and to that end, are determined both Officers and Souldiers, horſe and foot, not in the leaſt, to be accounted the wicked of men, and deſtroyers, but preſervers of that remnant and talent which God hath be<g ref="char:EOLhyphen"/>ſtowed upon thoſe, who ſerve him in truth and ſincerity.</p>
+            <pb facs="tcp:160286:4"/>
+            <p n="2">II. That although they are now near ap<g ref="char:EOLhyphen"/>proaching towards your vaſt and populous City, yet it is no waies prejudiciall to the State, but for the preſervation and ſecurity of thoſe priviledges, for which divers poor ſouldiers have loſt their lives for the main<g ref="char:EOLhyphen"/>tenance of the ſame.</p>
+            <p n="3">III. That if there be an anſwer returned ſomewhat ſuitable to their deſires, and their reaſonable requeſts granted, they ſhall pro<g ref="char:EOLhyphen"/>ceed no further, but retreat to any conveni<g ref="char:EOLhyphen"/>ent place, which ſhall be thought fit and convenient.</p>
+            <p n="4">IV. That, their deſire is, that they may re<g ref="char:EOLhyphen"/>ceive a faire &amp; ſuitable Anſwer to their Re<g ref="char:EOLhyphen"/>queſts, (profeſſing that their intentions are reall, and not in the leaſt, prejudiciall, either to State or Common-Wealth, but for the advantage of the publike good.) And that the Citizens of <hi>London</hi> with whom they have ſo often hazarded <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lives withall againſt the Common Enemy of the Kingdome, may not in any waies ſtand in oppoſition againſt them, but really and unanimouſly knit their hearts in one link, againſt all oppoſers and
+<pb facs="tcp:160286:5"/>diſturbers of the publike Weale of <hi>England,</hi> in which troubleſome diſaſters, both the Citizens of <hi>London</hi> and the renowned Pren<g ref="char:EOLhyphen"/>tices (of the ſaid City) in the Army, have waded through many difficulties.</p>
+            <p n="5">V. And laſtly, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the earneſt deſire of the whole Army, that all things may be compoſed in love, and that all poſſi<g ref="char:EOLhyphen"/>ble means may be uſed, for a ſafe and well-grounded peace, that ſo his Majeſties Honour and Prerogative may be main<g ref="char:EOLhyphen"/>tained, the Priviledges and Being of Parliament preſerved, and the peace and welfare of the Kingdome defended, a<g ref="char:EOLhyphen"/>gainſt all Oppoſers, and Diſturbers whatſoever.</p>
+            <p>Theſe Deſires and Demands were ſubſcribed by divers of the chief Officers in the Army.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
